@@ -22,22 +22,23 @@
     "format-duration": "^1.4.0",
     "framer-motion": "^4.1.17",
     "jsonwebtoken": "^8.5.1",
+    "next": "12.1.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
     "react-howler": "^5.2.0",
     "react-icons": "^4.3.1",
     "reset-css": "^5.0.1",
-    "swr": "^1.1.1",
-    "next": "12.1.0",
-    "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "swr": "^1.1.1"
   },
   "devDependencies": {
-    "eslint": "8.11.0",
-    "eslint-config-next": "12.1.0",
+    "@types/node": "^17.0.21",
     "@types/react": "^17.0.37",
     "@typescript-eslint/eslint-plugin": "^5.6.0",
     "@typescript-eslint/parser": "^5.6.0",
     "babel-plugin-superjson-next": "^0.4.2",
+    "eslint": "8.11.0",
     "eslint-config-airbnb": "^19.0.2",
+    "eslint-config-next": "12.1.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-import": "^2.25.3",
     "eslint-plugin-jsx-a11y": "^6.5.1",
@@ -46,6 +47,7 @@
     "eslint-plugin-react-hooks": "^4.3.0",
     "prettier": "^2.4.1",
     "prisma": "^3.6.0",
-    "ts-node": "^10.4.0"
+    "ts-node": "^10.4.0",
+    "typescript": "^4.6.2"
   }
 }
