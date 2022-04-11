@@ -1,4 +1,4 @@
-import { Box } from "@chakra-ui/layout"l
+import { Box } from "@chakra-ui/layout"
 
 const PlayerLayout = () => { 
     return (
